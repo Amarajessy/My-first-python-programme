@@ -1,0 +1,226 @@
+x = 'a'
+y = 'b'
+if x <= 'a':
+    print("it's not a vowel")
+
+else:
+    print("it's a vowel")
+
+
+    # exercise 2.
+
+number_1 = '2000'
+number_2 = '1420'
+number_3 = '1000'
+if number_1 > number_2:
+    print(number_1 > number_2)
+    print(number_3 < number_2)
+if number_2 < number_1 > number_3:
+    print('this number is in between 2000 and 1000')
+
+
+    # exercise 3
+
+first_number = 20
+second_number = 30
+third_number = 10
+answer = (int(first_number + second_number + third_number))
+print(f'the answer is {answer}')
+
+
+# exercise 4
+
+
+first_number = 10
+second_number = 12
+third_number = 8
+fourth_number = 24
+
+if 10 > 8 < 12:
+    print("it's large enough")
+
+if 12 < 24:
+    print(f'{fourth_number} is the largest number')
+
+
+# exercise 6
+
+text1 = "amara"
+print(len(text1))
+print(text1[0])
+print(text1.lower())
+print(text1[0])
+
+# after a turbulent 20 minutes of trying to figure this out, i decide to go on the cowardly route
+
+
+text1 = "a"
+print(text1)
+print(text1.__add__(" \baaaaaa"))
+
+greeting = "good day"
+print(greeting)
+print(len(greeting))
+print(greeting[:5])
+print(greeting[::-1])
+
+word = "at"
+print(len(word))
+print(word[::-1])
+
+word = 'Dog'
+print(len(word))
+print(word[::-1])
+
+stuff = "Wait"
+print(len(stuff))
+print(stuff[::-1])
+
+word = "Brain"
+print(len(word))
+
+
+# EXERCISE 7
+user_guess = input("give an answer")
+5 + 5 == 10
+if 5 + 5 == 10:
+    print("this is correct")
+else:
+    print("incorrect")
+10 <= 5
+if 10 <= 5:
+    print("incorrect")
+else:
+    print("5 is less than 10 instead")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
